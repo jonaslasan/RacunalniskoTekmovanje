@@ -1,0 +1,17 @@
++ena
+ +dva
+   alfa
+ -dva
+ +tri
+  beta
+  gama
+  +stiri
+   delta
+  -stiri
+  epsilon
+ -tri
+ zeta
+ +tri
+ -tri
+-ena
+eta
